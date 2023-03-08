@@ -1,0 +1,57 @@
+
+        p {color: rgb(0, 0, 0)
+         }
+
+        h1 { 
+            text-align: center;
+            padding: 5px;
+            margin: 5px;
+
+            font-weight: bold;
+        color: rgb(2, 2, 2);}
+
+    section {
+        padding: 7px solid rgb(15, 15, 15);
+        margin: 6px solid rgb(253, 164, 191);
+    }
+
+*{ 
+    color: rgb(31, 32, 31);
+}
+
+ul {
+    color: rgb(253, 122, 122); 
+}
+
+#mi_parrafo { 
+    text-align: justify;
+    color: rgb(7, 7, 7);
+    font: bolder 1px;
+    border: 3 px solid
+}
+
+.habilidades {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(14, 13, 13); 
+}
+
+nav {font-family: 'Crimson Text', serif;
+    font-family: 'Zeyada', cursive;
+
+}
+
+body { background-position: center;
+}
+body {background-color: burlywood;
+}
+
+body {
+    min-height: 100%;
+}
+
+
+
+h5 { font-style: oblique; 
+    color: brown;
+}
+   
